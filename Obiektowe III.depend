@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1553454911 source:c:\users\micheal\desktop\floder git\obiektowe iii\main.cpp
+	<iostream>
+	"event.h"
+
+1553454891 c:\users\micheal\desktop\floder git\obiektowe iii\event.h
+	<iostream>
+
